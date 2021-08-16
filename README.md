@@ -15,7 +15,7 @@ Coded by DiabloAkar & YusufAkar /w Kronos
 
 ### Kurulum yapmadan önce yapmanız gerekenler
 
-1. `Python 3.4'ü indirmeniz`
+1. `Python 3.4 PATH'i indirmeniz`
 ### Eğer uygulamayı açamıyorsanız ---->
 2. `cd desktop`
 3. `start proxydownloader.py`
