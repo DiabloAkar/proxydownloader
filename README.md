@@ -6,8 +6,8 @@ Coded by DiabloAkar & YusufAkar /w Kronos
 ## Giriş:
 
 - [AkarGang Discord](https://discord.gg/akargang) Sayfasına gidin
-- [Tikla](https://github.com/YusufAkartr) Proje Ortağı 1
-- [Tikla](https://github.com/BunyaminEfe) Proje Ortağı 2
+- [Tıkla](https://github.com/YusufAkartr) Proje Ortağı 1
+- [Tıkla](https://github.com/BunyaminEfe) Proje Ortağı 2
 -  **"Amacı istediğiniz türden proxy'i indirmektir."** 
 -  **"AkarGang Developers tarafından codelanmıştır"**
 
@@ -22,7 +22,7 @@ Coded by DiabloAkar & YusufAkar /w Kronos
 3. `üstteki olmuyorsa`
 4. `start proxydownloader.py`
 
--  [Tikla](https://discord.gg/akargang) Yapamadığınız bir şey olursa bize ulaşın.
+-  [Tıkla](https://discord.gg/akargang) Yapamadığınız bir şey olursa bize ulaşın.
 
 
 ## SORUMLULUK REDDİ:
