@@ -5,7 +5,7 @@ Coded by DiabloAkar & YusufAkar /w Kronos
 
 ## Giriş:
 
-- [AkarGang Discord](https://discord.gg/akargang) Sayfasına gidin
+- [AkarGang Discord](https://discord.gg/DDcXf472BF) Sayfasına gidin
 - [Tıkla](https://github.com/YusufAkartr) Proje Ortağı 1
 - [Tıkla](https://github.com/BunyaminEfe) Proje Ortağı 2
 -  **"Amacı istediğiniz türden proxy'i indirmektir."** 
